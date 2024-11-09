@@ -12,7 +12,7 @@ public void clickLogoTest() {
 @Test(enabled=true,priority = 2)
 public void clickLoginButtonTest() throws InterruptedException {
 	homePage.clickLoginButton();
-	}
+	}// update
 @Test
 public void clickUserIdTest() {
 	homePage.clickUserId();
